@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @FawoziMohammed
+- 👋 Hi, I’m @Fawzy Mohammed
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C# & Game Desgine
 - 💞️ I’m looking to collaborate on Game Developers
 - 📫 How to reach me momanfawozi@gmailcom
 
-<!---
-FawoziMohammed/FawoziMohammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there my name is fawzy mohamed I'm an Egyptian game developer and 3D Artiest and I study computer science, I have over 4 years in game development and over 3 years in 3D modelling and texturing and also designing also I have over 4 years experience in programming in python and C# and C++. In-game development I have good experience in all fields from programming to level and environment design to optimizing the game to work in all platforms and of course 3D assets and workflow that suits game development to be honest not so great in making sounds and VFX and shader making in unity but can handle it to work in the best form; I did a lot of projects from PC games to the mobile game and even VR and AR game on small scale. I use unity as my main game engine and I'm good with using it. In 3D modelling and texturing I have excellent experience I did a lot of models that support my words especially in texture making, and I'm exceptional in making low-poly or stylized assets and I am fully aware of every workflow of 3D modelling and texturing for game development and I have a little bit of experience in rigging and animations; also did a lot my 3D models and textures that all ready to use in-game engine I use mainly blender for modelling and other stuff and I also use substance pinter and designer for painting and making textures. and you can check my portfolio to see my work.
